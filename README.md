@@ -7,15 +7,6 @@ Email Me 👉 ✉️ **adeel.hassan2k20@gmail.com** For Collaboration/Project or
   <img src="https://komarev.com/ghpvc/?username=adeelhassan123&label=Profile%20views&color=0e75b6&style=flat" alt="adeelhassan123" />
 </p>
 
-- 🔭 **I’m currently working on:** AI-powered Automated Network Vulnerability Scanning & Analysis System for Cybersecurity Threat Detection
-- 🌱 **I’m currently learning:** TensorFlow, PyTorch & more DL/ML Frameworks
-- 👯 **I’m looking to collaborate on:** Cybersecurity projects, Ethical Hacking tools, and AI-based Web Application Firewalls (WAF)
-- 💬 **Ask me about:** TensorFlow, PyTorch, MERN Stack, Supabase, MongoDB, MySQL, Network Scanning, and Vulnerability Analysis
-- 😄 **Pronouns:** Adeel Bro
-- ⚡ **Fun fact:** I love to explore the impossible!
-
----
-
 ### 🌐 Connect with me:
 <p align="left">
   <p> Stay updated with my latest projects by connecting with me on LinkedIn and following me on GitHub </p>
